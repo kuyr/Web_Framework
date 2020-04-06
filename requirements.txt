@@ -1,0 +1,7 @@
+selenium
+pytest
+webdriver_manager
+py
+nose
+pytest-xdist
+python-dotenv
