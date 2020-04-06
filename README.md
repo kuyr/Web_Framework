@@ -30,6 +30,6 @@ npm test
 
 ## Meta
 
-Aniekan Eshiet – aniekan.eshiet@gmail.com
 
-[https://github.com/yourname/github-link](https://github.com/dbader/)
+
+
