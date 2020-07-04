@@ -1,0 +1,11 @@
+static int differentTeams(String skills)
+{
+    int min = Integer.MAX_VALUE;
+    for(String subj : "pcmbz".split(""))
+    {
+        String skillsRem = skills.replaceAll(subj, "");
+        min = Math.min(skills.length() - skillsRem.length(), min);
+        skills = skillsRem;
+    }
+    return min;
+}
